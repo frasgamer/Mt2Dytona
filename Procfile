@@ -1,0 +1,1 @@
+magict: node bot.js
